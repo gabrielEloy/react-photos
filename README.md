@@ -1,6 +1,6 @@
 ## React Photos
 
-<img src=docs/app.png" alt="App image print"/>
+<img src="docs/app.png" alt="App image print"/>
 
 This project is a photo gallery made with react + firebase.
 I also added some minor animations with framer motion in order to make it look good
