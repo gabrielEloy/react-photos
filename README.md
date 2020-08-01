@@ -25,4 +25,4 @@ npm i && npm run start
 Maybe you don't want to download this project and run it in order to see it running.
 If that is your case, you can just 
 
-[click here](suspicious-shaw-4564cf.netlify.app)
+<a href="suspicious-shaw-4564cf.netlify.app" target="_blank">click here</a>
